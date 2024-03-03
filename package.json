@@ -1,5 +1,5 @@
 {
-  "name": "maven-repo",
+  "name": "@hongchanphat/maven-repo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
