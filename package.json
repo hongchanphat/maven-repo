@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hongchanphat/maven-repo/issues"
   },
-  "homepage": "https://github.com/hongchanphat/maven-repo#readme"
+  "homepage": "https://github.com/hongchanphat/maven-repo#readme",
+  "publishConfig": {
+    "@hongchanphat:registry": "https://npm.pkg.github.com"
+  }
 }
